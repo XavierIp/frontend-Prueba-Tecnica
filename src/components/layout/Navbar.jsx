@@ -36,7 +36,7 @@ const Navbar = () => {
                     <div className="flex items-center">
                         <Link to="/" className="flex-shrink-0 flex items-center">
                             <IoStorefrontOutline className="h-8 w-8 text-indigo-600" />
-                            <span className="ml-2 text-2xl font-bold text-gray-800">ProStore</span>
+                            <span className="ml-2 text-2xl font-bold text-gray-800">XaviStore</span>
                         </Link>
                     </div>
 

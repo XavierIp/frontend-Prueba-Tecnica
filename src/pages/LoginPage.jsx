@@ -42,7 +42,7 @@ const LoginPage = () => {
           <div className="p-3 bg-indigo-100 rounded-full mb-3">
             <IoStorefrontOutline className="h-10 w-10 text-indigo-600" />
           </div>
-          <h1 className="text-3xl font-bold text-gray-800">Admin XaviStore</h1>
+          <h1 className="text-3xl font-bold text-gray-800">XaviStore</h1>
           <p className="text-gray-500 mt-1">Ingresa a tu panel de control</p>
         </div>
         
